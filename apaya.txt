@@ -1,6 +1,8 @@
 Data
 Naomi Anjeli gultom 
+npm
 20753024 
+prodi
 manajemen informatika
 politeknik negeri lampung
 MI 5A
