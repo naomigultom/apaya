@@ -1,0 +1,2 @@
+# apaya
+belum mahirrr wajar
